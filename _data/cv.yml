@@ -88,11 +88,13 @@ cv:
     Volunteer:
       - company: COMPTEXT Association
         position: Co-founder & Secretary
+        location: Dublin, Ireland
         start_date: 2016
         end_date: present
         summary: International association for computational text analysis in the social sciences.
 
       - company: Political Studies Association of Ireland
         position: Co-founder, Computational Methods Specialist Group
+        location: Dublin, Ireland
         start_date: 2018
         end_date: present
