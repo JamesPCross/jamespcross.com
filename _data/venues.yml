@@ -1,9 +1,35 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+"JEPP":
+  url: https://www.tandfonline.com/journals/rjpp20
+  color: "#1a5276"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"EUP":
+  url: https://journals.sagepub.com/home/eup
+  color: "#1e8449"
 
-"Vision":
-  color: "#009f36"
+"PA":
+  url: https://www.cambridge.org/core/journals/political-analysis
+  color: "#922b21"
+
+"EJPR":
+  url: https://ejpr.onlinelibrary.wiley.com/journal/14756765
+  color: "#6c3483"
+
+"JCMS":
+  url: https://onlinelibrary.wiley.com/journal/14685965
+  color: "#b9770e"
+
+"WEP":
+  url: https://www.tandfonline.com/journals/fwep20
+  color: "#2874a6"
+
+"Gov":
+  url: https://onlinelibrary.wiley.com/journal/14680491
+  color: "#117a65"
+
+"EJPE":
+  url: https://www.sciencedirect.com/journal/european-journal-of-political-economy
+  color: "#a04000"
+
+"CCR":
+  url: https://journal.computationalcommunication.org/
+  color: "#2e86c1"

@@ -1,34 +1,55 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"greene":
+  - firstname: ["Derek", "D."]
+    url: https://derekgreene.com/
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"muller":
+  - firstname: ["Stefan", "S."]
+    url: https://muellerstefan.net/
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"schoonvelde":
+  - firstname: ["Martijn", "M."]
+    url: https://mschoonvelde.com/
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"bolstad":
+  - firstname: ["Jorgen", "J."]
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"hermansson":
+  - firstname: ["Henrik", "H."]
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"baerg":
+  - firstname: ["Nicole", "N."]
+    url: https://www.nicolebaerg.com/
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"thomson":
+  - firstname: ["Robert", "R."]
+    url: https://www.robertthomson.info/
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"eising":
+  - firstname: ["Rainer", "R."]
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"vaznonyte":
+  - firstname: ["Aiste", "A."]
+
+"spohr":
+  - firstname: ["Florian", "F."]
+
+"umansky":
+  - firstname: ["Nataliia", "N."]
+
+"calo":
+  - firstname: ["Silvia", "S."]
+
+"arregui":
+  - firstname: ["Javier", "J."]
+
+"leuffen":
+  - firstname: ["Dirk", "D."]
+
+"costello":
+  - firstname: ["Rory", "R."]
+
+"hertz":
+  - firstname: ["Robin", "R."]
+
+"jensen":
+  - firstname: ["Thomas", "T."]

@@ -4,12 +4,9 @@ permalink: /teaching/
 title: teaching
 description: Course materials, schedules, and resources for classes taught.
 nav: true
-nav_order: 6
-calendar: true
+nav_order: 3
 ---
 
-This page displays a collection of courses with detailed schedules, materials, and resources. You can organize your courses by years, terms, or topics.
-
-{% include calendar.liquid calendar_id='test@gmail.com' timezone='Asia/Shanghai' %}
+I am committed to innovative teaching that integrates computational methods with political science. I received the UCD Teaching Excellence Award (2024) and the PSAI Teaching Award (2019). In 2019, I founded the [MSc in Politics and Data Science](https://www.ucd.ie/spire/study/mscpoliticsdatascience/) at UCD, which is now the 3rd largest programme cohort in the school.
 
 {% include courses.liquid %}

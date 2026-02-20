@@ -2,33 +2,33 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
-
+subtitle: >
+  <a href="https://www.ucd.ie/spire/">School of Politics and International Relations (SPIRe)</a>, University College Dublin
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Office G305, Newman Building</p>
+    <p>University College Dublin</p>
+    <p>Belfield, Dublin 4, Ireland</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: true
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: false
+  scrollable: true
+  limit: 5
 
 latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  enabled: false
+  scrollable: true
+  limit: 3
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an Associate Professor of Political Science at [University College Dublin](https://www.ucd.ie/) (UCD) and Director of the [Connected_Politics Lab](https://www.ucd.ie/connected_politics/). My research focuses on EU politics, computational political science, and text-as-data methods. I am particularly interested in how natural language processing (NLP) and large language models (LLMs) can be applied to political science research.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My current projects include [ParliView](https://parliview.org), an AI-driven parliamentary transparency tool funded by a Google.org grant (EUR 1.5m), and ongoing work on the [Decision-Making in the EU (DEU)](https://www.robertthomson.info/research/resolving-controversy-in-the-eu) dataset. I co-founded the [COMPTEXT Association](https://www.comptextconference.org/) and serve as its Secretary. I also founded and direct the [MSc in Politics and Data Science](https://www.ucd.ie/spire/study/mscpoliticsdatascience/) at UCD.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I received my PhD from [Trinity College Dublin](https://www.tcd.ie/) in 2011, and held postdoctoral positions at [ETH Z{\"u}rich](https://ethz.ch/) and the [European University Institute](https://www.eui.eu/) before joining UCD in 2014. My work has been published in journals including the *Journal of European Public Policy*, *European Union Politics*, *Political Analysis*, the *European Journal of Political Research*, and the *Journal of Common Market Studies*.
