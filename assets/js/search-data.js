@@ -37,16 +37,16 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "projects-connected-politics-lab",
+        },{id: "projects-coalesce-un-sustainability-goals-in-the-eu",
+          title: 'COALESCE: UN Sustainability Goals in the EU',
+          description: "A Research Ireland funded project studying how the UN Sustainable Development Goals are translated into actionable policy through EU committee debates and policymaking processes.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/coalesce/";
+            },},{id: "projects-connected-politics-lab",
           title: 'Connected_Politics Lab',
           description: "An interdisciplinary computational social science research hub at University College Dublin, combining political science with cutting-edge data science methods.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/connected_politics/";
-            },},{id: "projects-decision-making-in-the-eu-deu",
-          title: 'Decision-Making in the EU (DEU)',
-          description: "A major dataset tracking legislative decision-making in the European Union, covering proposals before and after the 2004 and 2007 enlargements.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/deu/";
             },},{id: "projects-euandi-voter-advice-application",
           title: 'EUandI Voter Advice Application',
           description: "A voter advice application helping citizens match their policy preferences with political parties, reaching 3.5 million views in the 2024 European Parliament elections.",
