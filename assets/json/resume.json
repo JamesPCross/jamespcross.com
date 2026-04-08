@@ -121,25 +121,13 @@
       "name": "Research Methods",
       "level": "Expert",
       "icon": "fa-solid fa-chart-bar",
-      "keywords": [
-        "Text-as-Data",
-        "NLP",
-        "LLMs",
-        "Computational Social Science",
-        "Network Analysis",
-        "Topic Modeling"
-      ]
+      "keywords": ["Text-as-Data", "NLP", "LLMs", "Computational Social Science", "Network Analysis", "Topic Modeling"]
     },
     {
       "name": "Substantive Expertise",
       "level": "Expert",
       "icon": "fa-solid fa-landmark",
-      "keywords": [
-        "EU Politics",
-        "Legislative Decision-Making",
-        "Central Bank Communication",
-        "Parliamentary Transparency"
-      ]
+      "keywords": ["EU Politics", "Legislative Decision-Making", "Central Bank Communication", "Parliamentary Transparency"]
     }
   ],
   "languages": [
@@ -153,13 +141,7 @@
     {
       "name": "Computational Political Science",
       "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Text-as-Data",
-        "NLP",
-        "EU Politics",
-        "Legislative Decision-Making",
-        "Parliamentary Transparency"
-      ]
+      "keywords": ["Text-as-Data", "NLP", "EU Politics", "Legislative Decision-Making", "Parliamentary Transparency"]
     }
   ],
   "references": [],
@@ -167,20 +149,14 @@
     {
       "name": "ParliView",
       "summary": "AI-driven parliamentary transparency tool funded by Google.org (EUR 1.5m).",
-      "highlights": [
-        "Automated transcription and analysis of parliamentary debates",
-        "Cross-party and cross-country comparison tools"
-      ],
+      "highlights": ["Automated transcription and analysis of parliamentary debates", "Cross-party and cross-country comparison tools"],
       "startDate": "2023-01-01",
       "endDate": ""
     },
     {
       "name": "Connected_Politics Lab",
       "summary": "Interdisciplinary computational social science research hub at UCD.",
-      "highlights": [
-        "EUR 1.72m in research funding",
-        "Computational methods for political science"
-      ],
+      "highlights": ["EUR 1.72m in research funding", "Computational methods for political science"],
       "startDate": "2016-01-01",
       "endDate": ""
     }
