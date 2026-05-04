@@ -1,12 +1,12 @@
 metadata:
-  last_updated: '2026-04-13'
+  last_updated: '2026-05-04'
 papers:
   Tx3mu9kAAAAJ:-f6ydRqryjwC:
     citations: 10
     title: 'Tracking amendments to legislation and other political texts with a novel minimum-edit-distance algorithm: DocuToads'
     year: '2016'
   Tx3mu9kAAAAJ:2osOgNQ5qMEC:
-    citations: 81
+    citations: 82
     title: "Everyone\u2019sa winner (almost): Bargaining success in the Council of Ministers of the European Union"
     year: '2013'
   Tx3mu9kAAAAJ:4JMBOYKVnBMC:
@@ -34,7 +34,7 @@ papers:
     title: Speaking in unison? Explaining the role of agenda-setter constellations in the ECB policy agenda using a network-based approach
     year: '2024'
   Tx3mu9kAAAAJ:Se3iqnhoufwC:
-    citations: 334
+    citations: 337
     title: Exploring the political agenda of the european parliament using a dynamic topic modeling approach
     year: '2017'
   Tx3mu9kAAAAJ:TFP_iSt0sucC:
@@ -53,12 +53,16 @@ papers:
     citations: 7
     title: Dimensionality reduction and visualisation tools for voting record
     year: '2016'
+  Tx3mu9kAAAAJ:YFjsv_pBGBYC:
+    citations: 0
+    title: Evaluating LLM-Driven Summarisation of Parliamentary Debates with Computational Argumentation
+    year: '2026'
   Tx3mu9kAAAAJ:YsMSGLbcyi4C:
     citations: 24
     title: 'Openness and censorship in the European Union: An interrupted time series analysis'
     year: '2015'
   Tx3mu9kAAAAJ:_FxGoFyzp5QC:
-    citations: 19
+    citations: 20
     title: 'Not all treaties are created equal: The effects of treaty changes on legislative efficiency in the EU'
     year: '2016'
   Tx3mu9kAAAAJ:_Qo2XoVZTnwC:
@@ -78,11 +82,11 @@ papers:
     title: 'Striking a pose: Transparency and position taking in the Council of the European Union'
     year: '2013'
   Tx3mu9kAAAAJ:e5wmG9Sq2KIC:
-    citations: 24
+    citations: 25
     title: Can we do what we say we will do? Issue salience, government effectiveness, and the legislative efficiency of Council Presidencies
     year: '2020'
   Tx3mu9kAAAAJ:eQOLeE2rZwMC:
-    citations: 59
+    citations: 60
     title: 'Unveiling the political agenda of the european parliament plenary: a topical analysis'
     year: '2015'
   Tx3mu9kAAAAJ:hC7cP41nSMkC:
@@ -110,7 +114,7 @@ papers:
     title: Application of a New Artificial Neural Network Graduate Free Training
     year: '2002'
   Tx3mu9kAAAAJ:mB3voiENLucC:
-    citations: 50
+    citations: 51
     title: 'Legislative amendments and informal politics in the European Union: A text reuse approach'
     year: '2017'
   Tx3mu9kAAAAJ:maZDTaKrznsC:
@@ -130,7 +134,7 @@ papers:
     title: Interventions and negotiation in the Council of Ministers of the European Union
     year: '2012'
   Tx3mu9kAAAAJ:u5HHmVD_uO8C:
-    citations: 189
+    citations: 190
     title: A new dataset on decision-making in the European Union before and after the 2004 and 2007 enlargements (DEUII)
     year: '2012'
   Tx3mu9kAAAAJ:zYLM7Y9cAGgC:
