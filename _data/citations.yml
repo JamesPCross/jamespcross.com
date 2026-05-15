@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-05-04'
+  last_updated: '2026-05-15'
 papers:
   Tx3mu9kAAAAJ:-f6ydRqryjwC:
     citations: 10
@@ -10,9 +10,13 @@ papers:
     title: "Everyone\u2019sa winner (almost): Bargaining success in the Council of Ministers of the European Union"
     year: '2013'
   Tx3mu9kAAAAJ:4JMBOYKVnBMC:
-    citations: 2
+    citations: 3
     title: Identifying Algorithmic and Domain-Specific Bias in Parliamentary Debate Summarisation
     year: '2025'
+  Tx3mu9kAAAAJ:BqipwSGYUEgC:
+    citations: 0
+    title: Identifying Algorithmic and Domain-Specific Bias
+    year: '2026'
   Tx3mu9kAAAAJ:JV2RwH3_ST0C:
     citations: 0
     title: Big Data Analytics Plenary
@@ -34,7 +38,7 @@ papers:
     title: Speaking in unison? Explaining the role of agenda-setter constellations in the ECB policy agenda using a network-based approach
     year: '2024'
   Tx3mu9kAAAAJ:Se3iqnhoufwC:
-    citations: 337
+    citations: 339
     title: Exploring the political agenda of the european parliament using a dynamic topic modeling approach
     year: '2017'
   Tx3mu9kAAAAJ:TFP_iSt0sucC:
@@ -78,7 +82,7 @@ papers:
     title: A tourist growth model to predict accommodation nights spent in Australian hotel industry
     year: '1999'
   Tx3mu9kAAAAJ:d1gkVwhDpl0C:
-    citations: 45
+    citations: 46
     title: 'Striking a pose: Transparency and position taking in the Council of the European Union'
     year: '2013'
   Tx3mu9kAAAAJ:e5wmG9Sq2KIC:
