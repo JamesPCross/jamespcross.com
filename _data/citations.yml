@@ -1,22 +1,26 @@
 metadata:
-  last_updated: '2026-05-15'
+  last_updated: '2026-06-12'
 papers:
   Tx3mu9kAAAAJ:-f6ydRqryjwC:
     citations: 10
     title: 'Tracking amendments to legislation and other political texts with a novel minimum-edit-distance algorithm: DocuToads'
     year: '2016'
   Tx3mu9kAAAAJ:2osOgNQ5qMEC:
-    citations: 82
+    citations: 83
     title: "Everyone\u2019sa winner (almost): Bargaining success in the Council of Ministers of the European Union"
     year: '2013'
   Tx3mu9kAAAAJ:4JMBOYKVnBMC:
     citations: 3
-    title: Identifying Algorithmic and Domain-Specific Bias in Parliamentary Debate Summarisation
+    title: Identifying algorithmic and domain-specific bias in parliamentary debate summarisation
     year: '2025'
   Tx3mu9kAAAAJ:BqipwSGYUEgC:
     citations: 0
     title: Identifying Algorithmic and Domain-Specific Bias
     year: '2026'
+  Tx3mu9kAAAAJ:GnPB-g6toBAC:
+    citations: 9
+    title: 'Intervention time series analysis of voluntary, counselling and testing on HIV infections in West African sub-region: the case of Ghana'
+    year: '2017'
   Tx3mu9kAAAAJ:JV2RwH3_ST0C:
     citations: 0
     title: Big Data Analytics Plenary
@@ -29,6 +33,10 @@ papers:
     citations: 0
     title: Magic Words or Methodical Work? Challenging Conventional Wisdom in LLM-Based Political Text Annotation
     year: '2026'
+  Tx3mu9kAAAAJ:O3NaXMp0MMsC:
+    citations: 1
+    title: Application of Intervention Analysis to incidence cases of HIV Infection in Ghana
+    year: '2015'
   Tx3mu9kAAAAJ:R3hNpaxXUhUC:
     citations: 47
     title: 'Business interests, public interests, and experts in parliamentary committees: their impact on legislative amendments in the German Bundestag'
@@ -38,7 +46,7 @@ papers:
     title: Speaking in unison? Explaining the role of agenda-setter constellations in the ECB policy agenda using a network-based approach
     year: '2024'
   Tx3mu9kAAAAJ:Se3iqnhoufwC:
-    citations: 339
+    citations: 345
     title: Exploring the political agenda of the european parliament using a dynamic topic modeling approach
     year: '2017'
   Tx3mu9kAAAAJ:TFP_iSt0sucC:
@@ -59,14 +67,14 @@ papers:
     year: '2016'
   Tx3mu9kAAAAJ:YFjsv_pBGBYC:
     citations: 0
-    title: Evaluating LLM-Driven Summarisation of Parliamentary Debates with Computational Argumentation
+    title: Evaluating LLM-driven summarisation of parliamentary debates with computational argumentation
     year: '2026'
   Tx3mu9kAAAAJ:YsMSGLbcyi4C:
-    citations: 24
+    citations: 25
     title: 'Openness and censorship in the European Union: An interrupted time series analysis'
     year: '2015'
   Tx3mu9kAAAAJ:_FxGoFyzp5QC:
-    citations: 20
+    citations: 21
     title: 'Not all treaties are created equal: The effects of treaty changes on legislative efficiency in the EU'
     year: '2016'
   Tx3mu9kAAAAJ:_Qo2XoVZTnwC:
@@ -118,7 +126,7 @@ papers:
     title: Application of a New Artificial Neural Network Graduate Free Training
     year: '2002'
   Tx3mu9kAAAAJ:mB3voiENLucC:
-    citations: 51
+    citations: 52
     title: 'Legislative amendments and informal politics in the European Union: A text reuse approach'
     year: '2017'
   Tx3mu9kAAAAJ:maZDTaKrznsC:
@@ -138,7 +146,7 @@ papers:
     title: Interventions and negotiation in the Council of Ministers of the European Union
     year: '2012'
   Tx3mu9kAAAAJ:u5HHmVD_uO8C:
-    citations: 190
+    citations: 193
     title: A new dataset on decision-making in the European Union before and after the 2004 and 2007 enlargements (DEUII)
     year: '2012'
   Tx3mu9kAAAAJ:zYLM7Y9cAGgC:
