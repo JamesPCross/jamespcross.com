@@ -2,6 +2,12 @@
   - firstname: ["Derek", "D."]
     url: https://derekgreene.com/
 
+"cunningham":
+  - firstname: ["Eoghan", "E."]
+
+"rago":
+  - firstname: ["Antonio", "A."]
+
 "muller":
   - firstname: ["Stefan", "S."]
     url: https://muellerstefan.net/
