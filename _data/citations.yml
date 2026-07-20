@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-06-24'
+  last_updated: '2026-07-20'
 papers:
   Tx3mu9kAAAAJ:-f6ydRqryjwC:
     citations: 10
@@ -63,7 +63,7 @@ papers:
     year: '2016'
   Tx3mu9kAAAAJ:UebtZRa9Y70C:
     citations: 7
-    title: Dimensionality reduction and visualisation tools for voting record
+    title: Dimensionality Reduction and Visualisation Tools for Voting Records.
     year: '2016'
   Tx3mu9kAAAAJ:YFjsv_pBGBYC:
     citations: 0
@@ -74,7 +74,7 @@ papers:
     title: 'Openness and censorship in the European Union: An interrupted time series analysis'
     year: '2015'
   Tx3mu9kAAAAJ:_FxGoFyzp5QC:
-    citations: 21
+    citations: 20
     title: 'Not all treaties are created equal: The effects of treaty changes on legislative efficiency in the EU'
     year: '2016'
   Tx3mu9kAAAAJ:_Qo2XoVZTnwC:
@@ -90,7 +90,7 @@ papers:
     title: A tourist growth model to predict accommodation nights spent in Australian hotel industry
     year: '1999'
   Tx3mu9kAAAAJ:d1gkVwhDpl0C:
-    citations: 47
+    citations: 48
     title: 'Striking a pose: Transparency and position taking in the Council of the European Union'
     year: '2013'
   Tx3mu9kAAAAJ:e5wmG9Sq2KIC:
@@ -133,6 +133,10 @@ papers:
     citations: 0
     title: A New Exploratory Neural Network Training Method
     year: '2006'
+  Tx3mu9kAAAAJ:ns9cj8rnVeAC:
+    citations: 0
+    title: 'ParliView: An Experiment-Driven Platform for Parliamentary Transparency'
+    year: Unknown Year
   Tx3mu9kAAAAJ:qUcmZB5y_30C:
     citations: 1
     title: Transparency in the Council of the European Union has increased over the last decade, but only for the least controversial negotiations
